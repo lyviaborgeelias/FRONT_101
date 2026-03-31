@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    padding: 40px 80px;
+}
+
+img{
+    width: 200px;
+    border-radius: 100%;
+    margin: 0;
+}
+
+h2{
+    color:#27664f;
+    font-weight: 600;
+    font-style: normal;
+}
+
+p{
+    font-weight: 300;
+    font-style: normal;
+    width: 900px;
+}
+
+ul{
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 2px;
+}
+
+section{
+    background-color: #e9f2ec;
+    padding: 1rem;
+    box-shadow: 0px 4px 10px #e5eee8;
+    margin: 30px;
+    border-radius: 1rem;
+    border-color: #dbe5f1;
+}
